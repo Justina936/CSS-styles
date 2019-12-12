@@ -1,0 +1,89 @@
+/* HTML */
+
+body {
+  margin: 0;
+  text-align: center;
+
+
+    }
+
+div{
+  margin: auto;
+
+
+}
+h1 {
+  margin: 0;
+  color: #464159;
+  font-family: fantasy;
+}
+h2{
+  color: #8bbabb;
+}
+h3{
+  color: #f67280;
+}
+p {
+  color: black;
+}
+hr {
+  border-top: 5px dotted #6c7b95;
+  width: 60px;
+    margin-top: 100px;
+}
+/* Classes */
+
+
+.top-cloud {
+  position: absolute;
+  top: 150px;
+  right: 150px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  top: 250px;
+  left: 200px;
+  padding-bottom: 50px;
+}
+.head {
+padding-top: 150px;
+background-color: #8bbabb;
+
+}
+.monitor {
+  float: left;
+  width: 20%;
+  padding-right: 40px;
+}
+.hello{
+padding-top: 50px;
+
+}
+
+.profile{
+  margin:50px auto;
+}
+
+.comp{
+  text-align: left;
+  margin-top: 50px;
+}
+
+.paint{
+  text-align: right;
+  margin-top: 50px;
+}
+.brush {
+float:right;
+    width: 20%;
+    padding-left:40px;
+}
+.skills{
+height: 300px;
+margin:50px auto;
+width: 50%;
+}
+.contact-me{
+  margin-top: 100px;
+}
